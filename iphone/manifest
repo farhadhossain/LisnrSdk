@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: LisnrSdk
+author: Mohammad Farhad Hossain
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: LisnrSdk
+moduleid: ti.lisnr.sdk
+guid: 9898bf6f-89f5-4825-9a5f-42231238c034
+platform: iphone
+minsdk: 5.5.1.GA
